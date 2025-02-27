@@ -5,6 +5,7 @@
 2. Added `scripts` in `angular.json`
     - `"node_modules/jquery/dist/jquery.js"`
     - `"node_modules/bootstrap/dist/js/bootstrap.js"`
-
+3. `npm i axios`
 
 ## Notes
+[https://npmjs.com](Javascript library)
