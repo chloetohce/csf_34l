@@ -8,4 +8,4 @@
 3. `npm i axios`
 
 ## Notes
-[https://npmjs.com](Javascript library)
+[Javascript library](https://npmjs.com)

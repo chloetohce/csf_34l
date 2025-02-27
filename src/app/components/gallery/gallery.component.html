@@ -1,0 +1,12 @@
+<h1>Fakery Gallery Photos</h1>
+
+<div class="container">
+    @for (photo of photos.slice(0, 10); let i = $index; track i) {
+        <div class="thumbnail">
+            <img width="10%" src={{photo.photo_url}} alt="">
+            <br>
+            <p>{{photo.caption}}</p>
+        </div>
+
+    }
+</div>
